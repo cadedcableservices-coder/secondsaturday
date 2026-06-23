@@ -1,0 +1,7 @@
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Local preview tooling (not needed on the live site)
+.claude/

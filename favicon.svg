@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Second Saturday">
+  <rect width="100" height="100" rx="18" fill="#F7F1E6"/>
+  <g stroke="#D9822B" stroke-width="2.4" stroke-linecap="round">
+    <line x1="33" y1="24" x2="38" y2="36"/>
+    <line x1="67" y1="24" x2="62" y2="36"/>
+    <line x1="20" y1="34" x2="30" y2="42"/>
+    <line x1="80" y1="34" x2="70" y2="42"/>
+    <line x1="14" y1="50" x2="26" y2="52"/>
+    <line x1="86" y1="50" x2="74" y2="52"/>
+  </g>
+  <path d="M30 60 A20 20 0 0 1 70 60 Z" fill="#D9822B"/>
+  <g fill="#1A1A1A">
+    <rect x="47.6" y="22" width="4.8" height="30" rx="1"/>
+    <rect x="41" y="31.5" width="18" height="4.6" rx="1"/>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <path d="M16 68 q10 -7 19 0 q10 7 19 0 q10 -7 19 0 q5 3.5 11 1.5" stroke="#2C4A47" stroke-width="3.4"/>
+    <path d="M16 76 q10 -7 19 0 q10 7 19 0 q10 -7 19 0 q5 3.5 11 1.5" stroke="#7FA6A0" stroke-width="3"/>
+  </g>
+</svg>
