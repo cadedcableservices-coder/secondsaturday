@@ -47,7 +47,7 @@ window.SS_BULLETIN = {
       date: "2026-09-12",
       time: "6:00 PM",
       title: "September Worship Night",
-      location: "Location announced soon",
+      location: "Buffalo Community Church · 4445 Hoffa Mill Rd, Lewisburg, PA 17837",
       theme: "An evening of worship, prayer, and the Word",
       details: "",
       rsvp: ""
